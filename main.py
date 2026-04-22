@@ -32,7 +32,7 @@ resources = {
     "milk": 200,
     "coffee": 100,
 }
-
+# Money collected by the machine
 money = {
     "value": 0,
 }
