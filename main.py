@@ -60,6 +60,7 @@ def check_resources(coffee_choice):
     return enough
 
 
+# Function to check if enough resources are available for selected coffee
 def process_coins(quarter, dime, nickle, penny):
     quarter *= 0.25
     dime *= 0.10
