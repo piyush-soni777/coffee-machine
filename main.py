@@ -108,5 +108,5 @@ def coffee_machine():
             else:
                 print(f"Not enough money, ${(process_coins(quarters, dimes, nickles, pennies))} refunded.")
 
-
+# Start the coffee machine
 coffee_machine()
