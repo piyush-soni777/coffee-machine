@@ -26,7 +26,7 @@ MENU = {
         "cost": 3.0,
     }
 }
-
+# Available resources in the coffee machine
 resources = {
     "water": 300,
     "milk": 200,
