@@ -37,7 +37,7 @@ money = {
     "value": 0,
 }
 
-
+# Function to print current resource report
 def report():
     print(f"Water: {resources['water']}ml")
     print(f"Milk: {resources['milk']}ml")
