@@ -45,6 +45,7 @@ def report():
     print(f"Money: ${money['value']}")
 
 
+# Function to check if enough resources are available for selected coffee
 def check_resources(coffee_choice):
     enough = True
     if MENU[coffee_choice]['ingredients']['water'] > resources['water']:
