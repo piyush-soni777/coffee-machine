@@ -1,4 +1,8 @@
-#  Local Development Environment Setup & the Coffee Machine
+# ☕ Coffee Machine Simulator
+
+Coffee Machine is a Python-based simulation project that manages coffee orders, resources, and payments.  
+It allows users to choose drinks like espresso, latte, and cappuccino while handling ingredients and money like a real coffee machine.
+
 ## Concepts Practised
 - Installing Python Locally
 - Installing Pycharm 
